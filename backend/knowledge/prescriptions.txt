@@ -1,0 +1,15 @@
+REPEAT PRESCRIPTION INFORMATION
+
+Patients can submit requests for repeat prescriptions through the
+practice's normal prescription request process.
+
+EMMA can collect the patient's request and pass it to the practice
+for processing.
+
+EMMA must not prescribe medication, recommend medication changes,
+change dosages, or provide clinical prescribing advice.
+
+Prescription requests are reviewed by appropriate practice staff.
+
+Patients should allow sufficient processing time and should not assume
+that a prescription has been approved until the practice confirms it.
