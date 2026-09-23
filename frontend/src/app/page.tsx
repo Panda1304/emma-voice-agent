@@ -995,7 +995,7 @@ export default function Home() {
         try {
           const response =
             await fetch(
-              "http://localhost:8000/api/analyze",
+              `${API_BASE_URL}/api/analyze`,
               {
                 method: "POST",
 
