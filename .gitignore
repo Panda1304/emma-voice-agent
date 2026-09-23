@@ -11,6 +11,8 @@ out/
 .env.local
 .env.*.local
 
+backend/emma_backend.egg-info/
+
 # Python
 __pycache__/
 *.py[cod]
@@ -25,3 +27,4 @@ venv/
 
 # Logs
 *.log
+.vercel
